@@ -1,0 +1,14 @@
+{
+  "name": "scrapperjs",
+  "version": "1.0.0",
+  "description": "Scrapper con javascript para obtener info de webs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Turpial Code",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.5.2"
+  }
+}
